@@ -12,3 +12,6 @@ This is a simple python app designed to support the pomodoro workflow.
 <code>
 pyinstaller  --windowed --add-data "./pomodoro/tomato.png;." --add-data "./pomodoro/gong.wav;." main.py -n pomodoro
 </code>
+
+# Run
+Start the pomodoro executable in dist\pomodoro after following the installing procedure or run the init script manually.
